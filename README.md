@@ -1,5 +1,4 @@
 ## 👋 Olá visitante!
-
 ## Eu... ##
 
 - 🎓 Sou um estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Zona Leste**
