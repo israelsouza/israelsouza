@@ -1,5 +1,13 @@
 ## 👋 Olá visitante!
 
+## Eu... ##
+
+- 🎓 Sou um estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Zona Leste**
+- 🎓 Possuo certificados sobre:
+-- **AI-900: Microsoft Azure AI Fundamentos** - 2022
+
+- 🤔 Estou estudando atualmente para aprender **Bootstrap**, **React** e **JQuery**
+
 
 
 ## Ferramentas e tecnologias
