@@ -5,7 +5,7 @@
 - 🎓 Possuo certificados sobre:
     - **AI-900: Microsoft Azure AI Fundamentos** - 2022
 
-- 🤔 Estou estudando atualmente para aprender **Bootstrap**, **React** e **JQuery**
+- 🤔 Estou estudando atualmente para aprender **React** e **Bootstrap**
 
 
 
@@ -18,6 +18,9 @@
 
 ## Estou aprendendo
 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 55px; height: 55px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"  style="width: 55px; height: 55px;"/>
 
 ## Estatisticas
