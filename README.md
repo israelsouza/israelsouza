@@ -19,9 +19,10 @@
 ## Estou aprendendo
 
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 55px; height: 55px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"  style="width: 55px; height: 55px;"/>
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 55px; height: 55px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"  style="width: 55px; height: 55px;"/>
+</div>
 
 ## Estatisticas
 
