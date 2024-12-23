@@ -7,14 +7,14 @@
 - 🤔 Estou estudando atualmente para aprender **React** e **Bootstrap**
 
 
-#### Ferramentas e tecnologias que possuo conhecimento
+### Ferramentas e tecnologias que possuo conhecimento
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 40px; height: 40px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  style="width: 40px; height: 40px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 40px; height: 40px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="width: 40px; height: 40px;" />
 
 
-#### Estou aprendendo
+### Estou aprendendo
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 40px; height: 40px;" />
