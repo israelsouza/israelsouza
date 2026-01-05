@@ -30,6 +30,7 @@
 ## 🎯 Objetivos 2026
 
 - [ ] Fazer 2 projetos fullstacks (para fins de aprender coisas novas)
+- [ ] Fazer 1 projeto fullstack usando IA (90% ou mais; para fins de aprender coisas novas)
 - [ ] Utilizar CI em algum projeto
 - [ ] Contribuir com algum projeto Open Source
 - [ ] Leituras técnicas
