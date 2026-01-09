@@ -33,11 +33,12 @@
 
 - [ ] Fazer 2 projetos fullstacks (para fins de aprender coisas novas)
 - [ ] Fazer 1 projeto fullstack usando IA (90% ou mais; para fins de aprender coisas novas)
-- [ ] Utilizar CI em algum projeto
+- [x] Utilizar CI em algum projeto
 - [ ] Contribuir com algum projeto Open Source
 - [ ] Leituras técnicas
     - [ ] `Programador Pragmático`
     - [ ] `Fundamentos da arquitetura de software`
+    - [ ] `Arquitetura Limpa: O guia do artesão para estrutura e design de software`
     - [ ] `TDD - Desenvolvimento Guiado por Testes`
     - [ ] `Refatoração - Aperfeiçoando o Design de Códigos Existentes`
     - [ ] `Trabalho Eficaz com Código Legado`
