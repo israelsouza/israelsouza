@@ -7,7 +7,7 @@
 
 ## Projeto em andamento
 
-[Hackathon ShikshaLokam 2026 - EduSync-AI](https://github.com/israelsouza/EduSync-AI) — Aplicativo mobile inteligente para sincronização de dados educacionais e automação de fluxos de aprendizado utilizando IA.
+[Hackathon ShikshaLokam 2026 - EduSync-AI](https://github.com/israelsouza/EduSync-AI) - Aplicativo mobile inteligente para sincronização de dados educacionais e automação de fluxos de aprendizado utilizando IA.
 
 [Busca Pet](https://busca-pet-edu.vercel.app/) - Plataforma colaborativa para divulgação de animais perdidos e encontrados na rua.
 
