@@ -7,6 +7,8 @@
 
 ## Projeto em andamento
 
+[Hackathon ShikshaLokam 2026 - EduSync-AI](https://github.com/israelsouza/EduSync-AI) — Aplicativo mobile inteligente para sincronização de dados educacionais e automação de fluxos de aprendizado utilizando IA.
+
 [Busca Pet](https://busca-pet-edu.vercel.app/) - Plataforma colaborativa para divulgação de animais perdidos e encontrados na rua.
 
 
@@ -16,7 +18,7 @@
 
 [Karla Rodrigues Yoga](https://karlarodriguesyoga.vercel.app/) - Portifólio profissional de professora de yoga
 
-[Hackathon NASA](https://nasa-challenge-meteor-madness-web.vercel.app/) - Resolução do desafio Meteor Madness do Hackathon Nasa 2025
+[Hackathon NASA 2025](https://nasa-challenge-meteor-madness-web.vercel.app/) - Resolução do desafio Meteor Madness do Hackathon Nasa 2025
 
 [Pesquisa de iniciação científica](https://sofia-gith.github.io/estudoGaby/) - Site para divulgação da iniciação científica de uma aluna de Recursos Humanos
 
