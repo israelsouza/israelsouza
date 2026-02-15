@@ -7,14 +7,16 @@
 
 ## Projeto em andamento
 
-[Hackathon ShikshaLokam 2026 - EduSync-AI](https://github.com/israelsouza/EduSync-AI) - Aplicativo mobile inteligente para sincronização de dados educacionais e automação de fluxos de aprendizado utilizando IA.
-
 [Busca Pet](https://busca-pet-edu.vercel.app/) - Plataforma colaborativa para divulgação de animais perdidos e encontrados na rua.
 
 
 ## Projetos no ar
 
 [Meu Portifólio](https://rael-portifolio.pages.dev/) - Confira para saber mais sobre os projetos e obter contato
+
+`ImageGen` - Freela de sistema criador de imagens com inteligência artificial 
+
+[Anedolia](https://anedolia.vercel.app/) - Game 3D criado como proposta para o Hackathon da Google
 
 [Karla Rodrigues Yoga](https://karlarodriguesyoga.vercel.app/) - Portifólio profissional de professora de yoga
 
@@ -32,7 +34,7 @@
 ## 🎯 Objetivos 2026
 
 - [ ] Fazer 2 projetos fullstacks (para fins de aprender coisas novas)
-- [ ] Fazer 1 projeto fullstack usando IA (90% ou mais; para fins de aprender coisas novas)
+- [x] Fazer 1 projeto fullstack usando IA (90% ou mais; para fins de aprender coisas novas)
 - [x] Utilizar CI em algum projeto
 - [ ] Contribuir com algum projeto Open Source
 - [ ] Leituras técnicas
